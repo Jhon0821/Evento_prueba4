@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode url="Inicio.aspx" title="Inicio"  description="">
+		<siteMapNode url="" title="Mantenedor Eventos"  description="Administracion">
+			<siteMapNode url="AgregarEvento.aspx" title="Ingresar Evento" description=""></siteMapNode>
+			<siteMapNode url="EditarEvento.aspx" title="Editar Evento" description="Editar Evento"></siteMapNode>
+			<siteMapNode url="EliminarEvento.aspx" title="Eliminar Evento" description=""></siteMapNode>
+			<siteMapNode url="ListarEvento.aspx" title="Listar Evento" description=""></siteMapNode>
+		</siteMapNode>
+	</siteMapNode>
+</siteMap>
